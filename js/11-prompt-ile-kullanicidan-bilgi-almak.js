@@ -10,3 +10,4 @@
 
 var isim = prompt("Adınız nedir?");
 console.log("Merhaba, " + isim);
+console.log()
